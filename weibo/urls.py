@@ -16,7 +16,10 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from UI.Controllers import textViews
+from UI.Controllers import accountView
+
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^test/', textViews.test),
+    url(r'^login/', accountView.login),
 ]
