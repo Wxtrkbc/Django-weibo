@@ -29,6 +29,10 @@ class Weibo(models.Model):
     perm = models.IntegerField(choices=perm_choice, default=0)
     date = models.DateTimeField(auto_now_add=True)
 
+    class Meta:
+        db_table = 'Weibo'
+        verbose_name_plural ='微博'
+
     def __str__(self):
         return self.text
 
@@ -38,6 +42,10 @@ class Topic(models.Model):
     name = models.CharField(max_length=140)
     date = models.DateTimeField()
 
+    class Meta:
+        db_table = 'Topic'
+        verbose_name_plural = '话题'
+
     def __str__(self):
         return self.name
 
@@ -46,6 +54,10 @@ class Category(models.Model):
     '''微博分类'''
 
     name = models.CharField(max_length=32)
+
+    class Meta:
+        db_table = 'Category'
+        verbose_name_plural = '分类'
 
     def __str__(self):
         return self.name
@@ -61,6 +73,10 @@ class Comment(models.Model):
     comment = models.CharField(max_length=140)
     date = models.DateTimeField(auto_created=True)
 
+    class Meta:
+        db_table = 'Comment'
+        verbose_name_plural = '评论'
+
     def __str__(self):
         return self.comment
 
@@ -68,6 +84,10 @@ class Comment(models.Model):
 class Tags(models.Model):
     '''标签'''
     name = models.CharField(max_length=64)
+
+    class Meta:
+        db_table = 'Tags'
+        verbose_name_plural = '标签'
 
     def __str__(self):
         return self.name
@@ -84,10 +104,15 @@ class UserProfile(models.Model):
     age = models.PositiveSmallIntegerField(blank=True, null=True)
     email = models.EmailField()
     tags = models.ManyToManyField(Tags)
-    head_img = models.ImageField()
+    head_img = models.ImageField(upload_to='UI/static/User_Pic')
 
     follow_list = models.ManyToManyField('self', blank=True, related_name="my_followers", symmetrical=False)
 
     # registration_date = models.DateTimeField(auto_created=True)
+
+    class Meta:
+        db_table = 'UserProfile'
+        verbose_name_plural = '用户信息'
+
     def __str__(self):
         return self.name
