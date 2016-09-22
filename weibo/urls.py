@@ -21,6 +21,13 @@ from UI.Controllers import accountView
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^test/', textViews.test),
+<<<<<<< HEAD
+    url(r'^login/', textViews.login),
+=======
     url(r'^login/', accountView.login),
+<<<<<<< HEAD
     url(r'^userProfile/', accountView.userProfile),
+=======
+>>>>>>> 6203aec8f1c07c5825263d633b664f0edf842670
+>>>>>>> baac50aef2c466534c40b636240644b330cfda7d
 ]
