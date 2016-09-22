@@ -81,16 +81,16 @@ WSGI_APPLICATION = 'weibo.wsgi.application'
 #     }
 # }
 
-DATABASES = {
-    'default': {
-    'ENGINE': 'django.db.backends.mysql',
-    'NAME':'weibo',
-    'USER': 'root',
-    'PASSWORD': '',
-    'HOST': '115.28.147.110',
-    'PORT': '',
-    }
-}
+# DATABASES = {
+#     'default': {
+#     'ENGINE': 'django.db.backends.mysql',
+#     'NAME':'weibo',
+#     'USER': 'root',
+#     'PASSWORD': '',
+#     'HOST': '115.28.147.110',
+#     'PORT': '',
+#     }
+# }
 
 
 
