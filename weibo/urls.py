@@ -22,4 +22,5 @@ urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^test/', textViews.test),
     url(r'^login/', accountView.login),
+    url(r'^userProfile/', accountView.userProfile),
 ]

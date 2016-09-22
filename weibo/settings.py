@@ -46,6 +46,7 @@ MIDDLEWARE = [
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
+    'django.contrib.auth.middleware.SessionAuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
@@ -82,16 +83,16 @@ WSGI_APPLICATION = 'weibo.wsgi.application'
 #     }
 # }
 
-# DATABASES = {
-#     'default': {
-#     'ENGINE': 'django.db.backends.mysql',
-#     'NAME':'weibo',
-#     'USER': 'root',
-#     'PASSWORD': '',
-#     'HOST': '115.28.147.110',
-#     'PORT': '',
-#     }
-# }
+DATABASES = {
+    'default': {
+    'ENGINE': 'django.db.backends.mysql',
+    'NAME':'weibo',
+    'USER': 'root',
+    'PASSWORD': '',
+    'HOST': '115.28.147.110',
+    'PORT': '',
+    }
+}
 
 
 
@@ -140,3 +141,11 @@ TEMPLATE_DIRS = (
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'UI', 'static'),
 )
+
+USER_HOME_FILE = os.path.join(BASE_DIR, 'UserHome')
+
+
+REDIS_CONNECT_DICT = {
+    'host': '115.28.147.110',
+    'port': '6379',
+}

@@ -183,6 +183,130 @@ body {
 .header .headerSet .hs_03 {
   background: url("/static/images/icon_07.jpg") left center no-repeat;
 }
+
+/*登录弹出框*/
+
+.Bv6_layer, .Bv6_layer legend, .Bv6_layer .W_input:focus, .Bv6_layer .S_txt1, .Bv6_layer .W_btn_b, .Bv6_layer .SW_fun .S_func1 {
+    color: #333;
+    text-decoration: none;
+}
+
+.Bv6_layer {
+    position: absolute;
+    z-index: 9999;
+}
+.Bv6_layer .content {
+    position: relative;
+    background: #fff;
+    border-radius: 3px;
+    border-top: 2px solid #fa7f40;
+}
+.Bv6_layer .W_layer_title {
+    border-bottom: 1px solid #f2f2f5;
+    line-height: 38px;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 0 0 0 16px;
+    vertical-align: middle;
+}
+
+.Bv6_layer .W_layer_close .ficon_close {
+  position: absolute;
+  z-index: 2;
+  right: 12px;
+  top: 9px;
+  font-size: 18px;
+}
+
+
+.layer_login_register_v2 {
+    width: 370px;
+    height: 335px;
+    padding: 35px 116px 29px 116px;
+}
+
+.layer_login_register_v2 .tab_bar {
+    border-bottom: 1px solid #f2f2f2;
+}
+.layer_login_register_v2 .tab_bar a.cur {
+    border-color: #f7691d;
+    font-weight: bold;
+}
+
+.layer_login_register_v2 .tab_bar a {
+    font-size: 16px;
+    display: inline-block;
+    padding-bottom: 10px;
+    width: 185px;
+    text-align: center;
+    border-bottom: 3px solid #FFF;
+    color: #333;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -o-transition: all .3s linear;
+    -ms-transition: all .3s linear;
+    transition: all .3s linear;
+}
+
+.layer_login_register_v2 .B_login {
+    margin: 0 auto;
+}
+
+.Bv6_layer .B_login {
+    padding-top: 30px;
+}
+
+.form_login_register .input_wrap {
+    background: url("../images/icon_input.png") no-repeat;
+    width: 198px;
+    border: 1px #ccc solid;
+    padding-left: 30px;
+}
+.form_login_register .item {
+    margin-bottom: 10px;
+    display: block;
+}
+
+.form_login_register .password {
+    background-position: 0 -30px;
+    position: relative;
+}
+.form_login_register .item {
+    margin-bottom: 10px;
+    display: block;
+}
+
+.form_login_register .W_input, .Bv6_layer .form_login_register .W_input {
+    box-shadow: none;
+}
+.form_login_register .weidun .W_input {
+    width: 166px;
+    padding-left: 6px;
+}
+
+.Bv6_layer .W_input, .Bv6_layer .send_weibo .input {
+    background-color: #fff;
+}
+
+.form_login_register .item {
+    margin-bottom: 10px;
+    display: block;
+}
+
+.form_login_register .item_btn {
+    margin: 16px 0;
+}
+
+.layer_login_register_v2 .text_info {
+    margin-top: 15px;
+}
+
+
+
+
+
+
+
 .main {
   margin-top: 48px;
   width: 1000px;
