@@ -19,4 +19,5 @@ from UI.Controllers import textViews
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^test/', textViews.test),
+    url(r'^login/', textViews.login),
 ]
