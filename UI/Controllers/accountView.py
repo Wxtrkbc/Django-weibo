@@ -8,13 +8,15 @@ from Repository import UserRespository
 
 
 def login(request):
-    username = request.GET.get('username')
-    password = request.GET.get('password')
-    print(username, password)
-    account_user_service = UserService.UserService(UserRespository.UserRespository())
-    rep = account_user_service.login(request, username, password)
+    if request.method == 'POST':
+        username = request.POST.get('username')
+        password = request.POST.get('password')
+        print(username, password)
+        account_user_service = UserService.UserService(UserRespository.UserRespository())
+        rep = account_user_service.login(request, username, password)
+        return HttpResponse(json.dumps(rep))
+    return render(request, 'layout/_layout.html')
 
-    return HttpResponse(json.dumps(rep))
 
 
 def userProfile(request):

@@ -4,7 +4,7 @@ from django.views.decorators.csrf import csrf_protect
 from django.shortcuts import render,HttpResponse
 
 def test(request):
-    return render(request, 'layout/_layout.html')
+    return render(request, 'index/index.html')
 
 
 

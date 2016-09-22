@@ -6,7 +6,7 @@
 	<link rel="stylesheet" href="/static/css/common.css"/>
 	<link rel="stylesheet" href="/static/css/layer_login_register_v2.css"/>
 	<link rel="stylesheet" href="/static/plugins/font_awesome/css/font-awesome.css"/>
-
+    {% block css %}{% endblock %}
 </head>
 <body>
 <div class="header">
@@ -28,7 +28,7 @@
                 <ul class="gn_login_list">
                     <li><a href="#" class="S_txt1" >注册</a></li>
                     <li class="W_vline S_line1"></li>
-                    <a node-type="loginBtn" href="javascript:void(0)" class="S_txt1" target="_top">登录</a>
+                    <a node-type="loginBtn" href="javascript:void(0)" class="login_mt" target="_top">登录</a>
                 </ul>
             </div>
 
@@ -93,6 +93,10 @@
         </div>
     </div>
 </div>
+
+{% block content %}{% endblock %}
+
+
 <div class="Bv6_layer Bv6_layer_pop hide" id="layer_14745295898261" style="left: 229px; top: 61px;">
 	<div class="content layer_mini_info">
 		<p class="main_txt">
