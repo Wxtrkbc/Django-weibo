@@ -21,7 +21,6 @@ from UI.Controllers import accountView
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^test/', textViews.test),
-    url(r'^login/', accountView.login),
-    url(r'^userProfile/', accountView.userProfile),
-
+    url(r'^personalpage/', textViews.personal),
+    url(r'^register/', textViews.register),
 ]
