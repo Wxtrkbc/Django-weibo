@@ -18,6 +18,7 @@ class UserService:
             rep['status'] = True
             login(request, user)
             rep['data']['user_id'] = request.user.id
+            print('login-user-id.{}'.format())
             user_dir = '{}/{}'.format(settings.USER_HOME_FILE, request.user.id)
             if not os.path.exists(user_dir):
                 os.mkdir(user_dir)              # 创建一个用户的家目录以用户的nid为名

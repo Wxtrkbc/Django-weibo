@@ -2,8 +2,8 @@
 # coding=utf-8
 
 
-import os
-os.environ.update({"DJANGO_SETTINGS_MODULE": "weibo.settings"})
+# import os
+# os.environ.update({"DJANGO_SETTINGS_MODULE": "weibo.settings"})
 
 # import redis
 #
@@ -20,5 +20,11 @@ os.environ.update({"DJANGO_SETTINGS_MODULE": "weibo.settings"})
 # r = UserRespository.UserRespository()
 # r.fetch_all_by_uid(1)
 # print(r)
+
+from Infrastructure import redisOperate
+from weibo import settings
+redis_obj = redisOperate.redisOperate(**settings.REDIS_CONNECT_DICT)
+ret = redis_obj.r.get('active_user_2')
+print(ret)
 
 

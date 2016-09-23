@@ -31,7 +31,10 @@ def userProfile(request):
     return HttpResponse(json.dumps(rep))
 
 
+# def index(request):
+#     if not request.user.is_authenticated:
+#         return redirect('/login/')
+#     return render(request, 'index.html')
+
 def index(request):
-    if not request.user.is_authenticated:
-        return redirect('/login/')
-    return render(request, 'index.html')
+    return render(request, 'index/index.html')

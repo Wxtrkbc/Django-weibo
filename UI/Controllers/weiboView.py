@@ -10,7 +10,7 @@ from Service import queueService
 def publish_wb(request):
     ret = request.GET.get('data', {
         'user_id': 1,
-        'text': 'haha',
+        'text': 'for followers',
         'date': time.time()
     })
     print(ret)
@@ -18,11 +18,12 @@ def publish_wb(request):
     queue_obj = queueService.QueueService()
     queue_obj.publish_weibo(ret)  # 将消息发送到队列中去
     queue_obj.close_queue()  # 关闭连接
-    return HttpResponse({'status': True, 'data': 'ret'})  # 直接返回前端成功信息
+    return HttpResponse(json.dumps({'status': True, 'data': ret}))  # 直接返回前端成功信息
 
 
 # 返回用户队列里的微博
 def get_user_weibos(request, user_queue_id):
+    print(user_queue_id,'----')
     queue_obj = queueService.QueueService()
     user_weibo_list = queue_obj.get_user_weibo(user_queue_id)
     return HttpResponse(json.dumps({'user_weibo_list': user_weibo_list}))

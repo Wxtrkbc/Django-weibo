@@ -4,38 +4,40 @@
 from Service import queueService
 from Infrastructure import redisOperate
 import json
-from Repository import models
-from weibo import settings
-
-# import os
-# os.environ.setdefault("DJANGO_SETTINGS_MODULE", settings)
-# os.environ.update({"DJANGO_SETTINGS_MODULE": settings})
 
 import os
 os.environ.setdefault("DJANGO_SETTINGS_MODULE", "weibo.settings")
 
+import django
+django.setup()
+from Repository import models
+from weibo import settings
+
 class Forword:
     def __init__(self):
         self.queue_obj = queueService.QueueService()
-        self.r = redisOperate.redisOperate()
+        self.redis_obj = redisOperate.redisOperate(**settings.REDIS_CONNECT_DICT)
         self.listen_publish_queue()
 
     def save_weibo_db(self, weibo_data):
-        print(type(weibo_data),weibo_data,'----')
+        print(type(weibo_data), weibo_data, '----')
 
         weibo_object = models.Weibo.objects.create(**weibo_data)
 
         print(weibo_object.id, '--1--')
         return weibo_object.id
 
-    def push_followes(self,weibo_data, weibo_id):
+    def push_followers(self,weibo_data, weibo_id):
         # 根据当前这条微博的用户id转发给在线关注该用户的好友
         weibo_data['weibo_id'] = weibo_id
         wb_user = models.UserProfile.objects.get(id=weibo_data.get('user_id'))
         print(wb_user.my_followers.select_related())
-        for follower in wb_user.my_followers.select_related():
+        for follower in list(wb_user.my_followers.select_related()):
             queue_name = str(follower.id)
-            follower_is_active = self.r.get('active_user_{}'.format(follower.id))
+            print(follower.id,'6666')
+            # follower_is_active = self.redis_obj.r.get('active_user_{}'.format(follower.id))
+            follower_is_active = self.redis_obj.r.get('active_user_2')
+            print(follower_is_active,'-----')
             if follower_is_active:
                 self.queue_obj.channel.queue_declare(queue=queue_name)
                 self.queue_obj.channel.basic_publish(exchange='',
@@ -44,13 +46,11 @@ class Forword:
 
                 print('push to{}.{}'.format(queue_name,weibo_data))
 
-
     def callback(self, ch, method, properties, body):
-        print(" [x] Received %r" % (json.loads(body),))
-        weibo_data = json.loads(body)
+        print(" [x] Received %r" % (json.loads(str(body,encoding="utf-8"))))
+        weibo_data = json.loads(str(body, encoding="utf-8"))
         weibo_id = self.save_weibo_db(weibo_data)
         self.push_followers(weibo_data, weibo_id)
-
 
     def listen_publish_queue(self):
         '''
@@ -66,6 +66,6 @@ class Forword:
         self.queue_obj.channel.start_consuming()
 
 
-
 forword = Forword()
+
 

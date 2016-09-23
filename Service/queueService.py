@@ -24,8 +24,8 @@ class QueueService:
 
     # 返回用户微博列表的回掉函数
     def callback(self, ch, method, properties, body):
-        print(" [x] Received %r" % (json.loads(body),))
-        self.user_new_weibo.append(json.loads(body))
+        print(" [x] Received %r" % (json.loads(str(body,encoding="utf-8"))))
+        self.user_new_weibo.append(json.loads(str(body,encoding="utf-8")))
 
 
     # 根据用户id返回此用户队列里的微博
@@ -37,7 +37,11 @@ class QueueService:
                                    queue=user_queue_id,
                                    no_ack=True)
 
-        self.channel.start_consuming()
+
+        self.connection.process_data_events()
+        self.connection._flush_output()
+        # self.channel.start_consuming()
+        self.close_queue()
         return self.user_new_weibo
 
     # 根据用户id返回此用户队列里的微博数量

@@ -15,8 +15,9 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
-from UI.Controllers import textViews
+
 from UI.Controllers import accountView
+from UI.Controllers import textViews
 from UI.Controllers import weiboView
 
 urlpatterns = [
@@ -27,5 +28,6 @@ urlpatterns = [
     url(r'^index/', accountView.index),
 
     url(r'^publish_weibo/', weiboView.publish_wb),
+    url(r'^get_weibo/(?P<user_queue_id>\d+)/$', weiboView.get_user_weibos),
 ]
 
