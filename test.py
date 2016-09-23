@@ -14,9 +14,11 @@ os.environ.update({"DJANGO_SETTINGS_MODULE": "weibo.settings"})
 #
 # print(r.get('active_user_1'))
 
+#
+# from Repository import UserRespository
+#
+# r = UserRespository.UserRespository()
+# r.fetch_all_by_uid(1)
+# print(r)
 
-from Repository import UserRespository
 
-r = UserRespository.UserRespository()
-r.fetch_all_by_uid(1)
-print(r)

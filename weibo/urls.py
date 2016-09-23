@@ -17,17 +17,15 @@ from django.conf.urls import url
 from django.contrib import admin
 from UI.Controllers import textViews
 from UI.Controllers import accountView
+from UI.Controllers import weiboView
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^test/', textViews.test),
-<<<<<<< HEAD
-    url(r'^login/', textViews.login),
-=======
     url(r'^login/', accountView.login),
-<<<<<<< HEAD
     url(r'^userProfile/', accountView.userProfile),
-=======
->>>>>>> 6203aec8f1c07c5825263d633b664f0edf842670
->>>>>>> baac50aef2c466534c40b636240644b330cfda7d
+    url(r'^index/', accountView.index),
+
+    url(r'^publish_weibo/', weiboView.publish_wb),
 ]
+
