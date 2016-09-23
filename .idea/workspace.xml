@@ -2,161 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c4e6846-533c-4e97-8b19-e4b3dedc1ab6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/User_Pic/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/User_Pic/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/User_Pic/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2013.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2014.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2015.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2016.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2017.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2018.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5001.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5002.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5003.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5004.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5005.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5006.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5007.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5008.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5009.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5011.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5012.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5013.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5014.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5015.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2001_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2002_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2004_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2006_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2007_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2008_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2009_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2010_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2011_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2012_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2019_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2020_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2021_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2023_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2024_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2025_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2026_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1001_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1003_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1004_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1005_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1007_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/footer_code.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/icon_input.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/icon_qq.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/pic.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/search.ele.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/sprite_login.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/12.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/13.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/14.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/15.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/17.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/18.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/19.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/20.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/21.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/22.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/23.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/25.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/26.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/27.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/28.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/29.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/30.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/31.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/33.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/34.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/35.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/36.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/37.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/38.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/39.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/40.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/41.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/42.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/43.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/44.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/45.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/46.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/47.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/48.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/49.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/50.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/51.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/52.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/53.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/54.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/55.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/56.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/57.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/58.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/59.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/60.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/61.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/62.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/63.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/64.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/65.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/66.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/67.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/68.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/69.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/70.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/71.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/72.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/73.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/74.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/75.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/9.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Infrastructure/redisOperate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Repository/WeiboRespository.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Repository/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Repository/migrations/0002_auto_20160922_1108.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Service/responseService.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/Controllers/accountView.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/css/layer_login_register_v2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/js/index_jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/js/layout.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/js/jquery.qqFace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/templates/index/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/weibo.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Weibo-Django.iml" afterPath="$PROJECT_DIR$/.idea/Weibo-Django.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/css/register/register.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/templates/register/register.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Repository/UserRespository.py" afterPath="$PROJECT_DIR$/Repository/UserRespository.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Repository/models.py" afterPath="$PROJECT_DIR$/Repository/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Service/UserService.py" afterPath="$PROJECT_DIR$/Service/UserService.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI/Controllers/textViews.py" afterPath="$PROJECT_DIR$/UI/Controllers/textViews.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI/static/css/common.css" afterPath="$PROJECT_DIR$/UI/static/css/common.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI/static/css/personal/content.css" afterPath="$PROJECT_DIR$/UI/static/css/personal/content.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI/templates/layout/_layout.html" afterPath="$PROJECT_DIR$/UI/templates/layout/_layout.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weibo/settings.py" afterPath="$PROJECT_DIR$/weibo/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI/templates/personal/personalpage.html" afterPath="$PROJECT_DIR$/UI/templates/personal/personalpage.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weibo/urls.py" afterPath="$PROJECT_DIR$/weibo/urls.py" />
     </list>
     <ignored path="weibo.iws" />
@@ -181,61 +33,12 @@
       <content type="file-editors">
         <state>
           <leaf>
-            <file leaf-file-name="content.css" pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/UI/static/css/personal/content.css">
+            <file leaf-file-name="register.css" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/UI/static/css/register/register.css">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="316">
-                    <caret line="635" column="0" selection-start-line="635" selection-start-column="0" selection-end-line="635" selection-end-column="0" />
-                    <folding>
-                      <element signature="e#1012#1147#0" expanded="false" />
-                      <element signature="e#1159#1223#0" expanded="false" />
-                      <element signature="e#1230#1294#0" expanded="false" />
-                      <element signature="e#1298#1316#0" expanded="false" />
-                      <element signature="e#1336#1398#0" expanded="false" />
-                      <element signature="e#1415#1541#0" expanded="false" />
-                      <element signature="e#1554#1652#0" expanded="false" />
-                      <element signature="e#1662#1707#0" expanded="false" />
-                      <element signature="e#1727#1769#0" expanded="false" />
-                      <element signature="e#2305#2397#0" expanded="false" />
-                      <element signature="e#2407#2613#0" expanded="false" />
-                      <element signature="e#2627#2726#0" expanded="false" />
-                      <element signature="e#2736#2853#0" expanded="false" />
-                      <element signature="e#2877#3002#0" expanded="false" />
-                      <element signature="e#3012#3034#0" expanded="false" />
-                      <element signature="e#4099#4125#0" expanded="false" />
-                      <element signature="e#4153#4204#0" expanded="false" />
-                      <element signature="e#4236#4271#0" expanded="false" />
-                      <element signature="e#4311#4482#0" expanded="false" />
-                      <element signature="e#4519#4563#0" expanded="false" />
-                      <element signature="e#4605#4810#0" expanded="false" />
-                      <element signature="e#4821#4869#0" expanded="false" />
-                      <element signature="e#4882#5054#0" expanded="false" />
-                      <element signature="e#5067#5261#0" expanded="false" />
-                      <element signature="e#5275#5351#0" expanded="false" />
-                      <element signature="e#5365#5390#0" expanded="false" />
-                      <element signature="e#5405#5446#0" expanded="false" />
-                      <element signature="e#5459#5574#0" expanded="false" />
-                      <element signature="e#5598#5659#0" expanded="false" />
-                      <element signature="e#5669#5703#0" expanded="false" />
-                      <element signature="e#5734#5757#0" expanded="false" />
-                      <element signature="e#5766#5813#0" expanded="false" />
-                      <element signature="e#5844#5939#0" expanded="false" />
-                      <element signature="e#5948#5972#0" expanded="false" />
-                      <element signature="e#5981#6031#0" expanded="false" />
-                      <element signature="e#6040#6070#0" expanded="false" />
-                      <element signature="e#6211#6241#0" expanded="false" />
-                      <element signature="e#6402#6506#0" expanded="false" />
-                      <element signature="e#6817#6851#0" expanded="false" />
-                      <element signature="e#6867#7059#0" expanded="false" />
-                      <element signature="e#7080#7173#0" expanded="false" />
-                      <element signature="e#7188#7254#0" expanded="false" />
-                      <element signature="e#7269#7328#0" expanded="false" />
-                      <element signature="e#7358#7392#0" expanded="false" />
-                      <element signature="e#7407#7466#0" expanded="false" />
-                      <element signature="e#7475#7495#0" expanded="false" />
-                      <element signature="e#7511#7553#0" expanded="false" />
-                      <element signature="e#7569#7634#0" expanded="false" />
-                    </folding>
+                  <state relative-caret-position="0">
+                    <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                    <folding />
                   </state>
                 </provider>
               </entry>
@@ -251,43 +54,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="personalpage.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UI/templates/personal/personalpage.html">
+      <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UI/templates/register/register.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="248" column="0" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
               <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_layout.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/UI/templates/layout/_layout.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#1;n#div#2;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -298,8 +73,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -311,18 +86,20 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/weibo/__init__.py" />
-        <option value="$PROJECT_DIR$/weibo/urls.py" />
         <option value="$PROJECT_DIR$/UI/templates/test.html" />
         <option value="$PROJECT_DIR$/Repository/models.py" />
         <option value="$PROJECT_DIR$/Repository/admin.py" />
         <option value="$PROJECT_DIR$/Service/UserService.py" />
         <option value="$PROJECT_DIR$/Repository/UserRespository.py" />
         <option value="$PROJECT_DIR$/weibo/settings.py" />
-        <option value="$PROJECT_DIR$/UI/Controllers/textViews.py" />
         <option value="$PROJECT_DIR$/UI/static/css/common.css" />
+        <option value="$PROJECT_DIR$/UI/templates/layout/_layout.html" />
         <option value="$PROJECT_DIR$/UI/static/css/personal/content.css" />
         <option value="$PROJECT_DIR$/UI/templates/personal/personalpage.html" />
-        <option value="$PROJECT_DIR$/UI/templates/layout/_layout.html" />
+        <option value="$PROJECT_DIR$/weibo/urls.py" />
+        <option value="$PROJECT_DIR$/UI/Controllers/textViews.py" />
+        <option value="$PROJECT_DIR$/UI/static/css/register/register.css" />
+        <option value="$PROJECT_DIR$/UI/templates/register/register.html" />
       </list>
     </option>
   </component>
@@ -333,9 +110,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="484" />
-    <option name="y" value="46" />
-    <option name="width" value="1401" />
+    <option name="x" value="492" />
+    <option name="y" value="61" />
+    <option name="width" value="1415" />
     <option name="height" value="915" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -363,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -392,7 +170,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="weibo" />
+              <option name="myItemId" value="UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="register" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="personal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -428,11 +236,81 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
+              <option name="myItemId" value="UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="register" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="personal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -452,7 +330,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -475,7 +352,7 @@
       <recent name="E:\Weibo-Django\UI" />
     </key>
   </component>
-  <component name="RunManager" selected="Django server.weibo">
+  <component name="RunManager" selected="Django server.Weibo-Django">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -731,8 +608,33 @@
       <option name="customRunCommand" value="" />
       <method />
     </configuration>
-    <list size="1">
+    <configuration default="false" name="Weibo-Django" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="weibo.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Weibo-Django" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Django server.weibo" />
+      <item index="1" class="java.lang.String" itemvalue="Django server.Weibo-Django" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -752,20 +654,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="484" y="46" width="1401" height="915" extended-state="0" />
+    <frame x="492" y="61" width="1415" height="915" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20679246" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23973115" sideWeight="0.7735426" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10085227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38636363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23973115" sideWeight="0.20528455" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -773,6 +674,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32976827" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -788,7 +690,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -796,110 +700,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UI/static/css/personal/content.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8880">
-          <caret line="441" column="1" selection-start-line="441" selection-start-column="1" selection-end-line="441" selection-end-column="1" />
-          <folding>
-            <element signature="e#1012#1147#0" expanded="false" />
-            <element signature="e#1159#1223#0" expanded="false" />
-            <element signature="e#1230#1294#0" expanded="false" />
-            <element signature="e#1298#1316#0" expanded="false" />
-            <element signature="e#1336#1398#0" expanded="false" />
-            <element signature="e#1415#1541#0" expanded="false" />
-            <element signature="e#1554#1652#0" expanded="false" />
-            <element signature="e#1662#1707#0" expanded="false" />
-            <element signature="e#1727#1769#0" expanded="false" />
-            <element signature="e#2305#2397#0" expanded="false" />
-            <element signature="e#2407#2613#0" expanded="false" />
-            <element signature="e#2627#2726#0" expanded="false" />
-            <element signature="e#2736#2853#0" expanded="false" />
-            <element signature="e#2877#3002#0" expanded="false" />
-            <element signature="e#3012#3034#0" expanded="false" />
-            <element signature="e#4099#4125#0" expanded="false" />
-            <element signature="e#4153#4204#0" expanded="false" />
-            <element signature="e#4236#4271#0" expanded="false" />
-            <element signature="e#4311#4482#0" expanded="false" />
-            <element signature="e#4519#4563#0" expanded="false" />
-            <element signature="e#4605#4810#0" expanded="false" />
-            <element signature="e#4821#4869#0" expanded="false" />
-            <element signature="e#4882#5054#0" expanded="false" />
-            <element signature="e#5067#5261#0" expanded="false" />
-            <element signature="e#5275#5351#0" expanded="false" />
-            <element signature="e#5365#5390#0" expanded="false" />
-            <element signature="e#5405#5446#0" expanded="false" />
-            <element signature="e#5459#5574#0" expanded="false" />
-            <element signature="e#5598#5659#0" expanded="false" />
-            <element signature="e#5669#5703#0" expanded="false" />
-            <element signature="e#5734#5757#0" expanded="false" />
-            <element signature="e#5766#5813#0" expanded="false" />
-            <element signature="e#5844#5939#0" expanded="false" />
-            <element signature="e#5948#5972#0" expanded="false" />
-            <element signature="e#5981#6031#0" expanded="false" />
-            <element signature="e#6040#6070#0" expanded="false" />
-            <element signature="e#6211#6241#0" expanded="false" />
-            <element signature="e#6402#6506#0" expanded="false" />
-            <element signature="e#6817#6851#0" expanded="false" />
-            <element signature="e#6867#7059#0" expanded="false" />
-            <element signature="e#7080#7173#0" expanded="false" />
-            <element signature="e#7188#7254#0" expanded="false" />
-            <element signature="e#7269#7328#0" expanded="false" />
-            <element signature="e#7358#7392#0" expanded="false" />
-            <element signature="e#7407#7466#0" expanded="false" />
-            <element signature="e#7475#7495#0" expanded="false" />
-            <element signature="e#7511#7553#0" expanded="false" />
-            <element signature="e#7569#7634#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UI/templates/personal/personalpage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -935,35 +736,30 @@
             <element signature="e#4153#4204#0" expanded="false" />
             <element signature="e#4236#4271#0" expanded="false" />
             <element signature="e#4311#4482#0" expanded="false" />
-            <element signature="e#4519#4563#0" expanded="false" />
-            <element signature="e#4605#4810#0" expanded="false" />
-            <element signature="e#4821#4869#0" expanded="false" />
-            <element signature="e#4882#5054#0" expanded="false" />
-            <element signature="e#5067#5261#0" expanded="false" />
-            <element signature="e#5275#5351#0" expanded="false" />
-            <element signature="e#5365#5390#0" expanded="false" />
-            <element signature="e#5405#5446#0" expanded="false" />
-            <element signature="e#5459#5574#0" expanded="false" />
-            <element signature="e#5598#5659#0" expanded="false" />
-            <element signature="e#5669#5703#0" expanded="false" />
-            <element signature="e#5734#5757#0" expanded="false" />
-            <element signature="e#5766#5813#0" expanded="false" />
-            <element signature="e#5844#5939#0" expanded="false" />
-            <element signature="e#5948#5972#0" expanded="false" />
-            <element signature="e#5981#6031#0" expanded="false" />
-            <element signature="e#6040#6070#0" expanded="false" />
-            <element signature="e#6211#6241#0" expanded="false" />
-            <element signature="e#6402#6506#0" expanded="false" />
-            <element signature="e#6817#6851#0" expanded="false" />
-            <element signature="e#6867#7059#0" expanded="false" />
-            <element signature="e#7080#7173#0" expanded="false" />
-            <element signature="e#7188#7254#0" expanded="false" />
-            <element signature="e#7269#7328#0" expanded="false" />
-            <element signature="e#7358#7392#0" expanded="false" />
-            <element signature="e#7407#7466#0" expanded="false" />
-            <element signature="e#7475#7495#0" expanded="false" />
-            <element signature="e#7511#7553#0" expanded="false" />
-            <element signature="e#7569#7634#0" expanded="false" />
+            <element signature="e#4525#4730#0" expanded="false" />
+            <element signature="e#4741#4789#0" expanded="false" />
+            <element signature="e#4802#4974#0" expanded="false" />
+            <element signature="e#4987#5185#0" expanded="false" />
+            <element signature="e#5199#5275#0" expanded="false" />
+            <element signature="e#5289#5314#0" expanded="false" />
+            <element signature="e#5343#5384#0" expanded="false" />
+            <element signature="e#5397#5512#0" expanded="false" />
+            <element signature="e#5536#5597#0" expanded="false" />
+            <element signature="e#5704#5751#0" expanded="false" />
+            <element signature="e#5782#5877#0" expanded="false" />
+            <element signature="e#5919#5969#0" expanded="false" />
+            <element signature="e#5978#6008#0" expanded="false" />
+            <element signature="e#6340#6444#0" expanded="false" />
+            <element signature="e#6755#6789#0" expanded="false" />
+            <element signature="e#6805#6997#0" expanded="false" />
+            <element signature="e#7018#7111#0" expanded="false" />
+            <element signature="e#7126#7192#0" expanded="false" />
+            <element signature="e#7207#7266#0" expanded="false" />
+            <element signature="e#7296#7330#0" expanded="false" />
+            <element signature="e#7345#7404#0" expanded="false" />
+            <element signature="e#7413#7433#0" expanded="false" />
+            <element signature="e#7449#7491#0" expanded="false" />
+            <element signature="e#7507#7572#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -988,7 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -996,7 +791,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding />
+          <folding>
+            <element signature="e#639#671#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1019,7 +816,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#639#671#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1064,7 +863,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#639#671#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1123,7 +924,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#639#671#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1151,31 +954,10 @@
     <entry file="file://$PROJECT_DIR$/UI/templates/test.html" />
     <entry file="file://$PROJECT_DIR$/Repository/views.py" />
     <entry file="file://$PROJECT_DIR$/Repository/tests.py" />
-    <entry file="file://$PROJECT_DIR$/Repository/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Repository/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Service/UserService.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Repository/UserRespository.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1193,13 +975,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UI/Controllers/textViews.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/weibo/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -1208,15 +983,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weibo/urls.py">
+    <entry file="file://$PROJECT_DIR$/UI/static/css/personal/frame.css" />
+    <entry file="file://$PROJECT_DIR$/UI/static/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="196">
+          <caret line="101" column="1" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/templates/layout/_layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UI/static/css/personal/frame.css">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1224,18 +1007,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UI/static/css/common.css">
+    <entry file="file://$PROJECT_DIR$/Infrastructure/redisOperate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="101" column="1" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Repository/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Repository/UserRespository.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Repository/WeiboRespository.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Repository/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weibo/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="e#639#671#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/Controllers/textViews.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/static/css/personal/content.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="635" column="0" selection-start-line="635" selection-start-column="0" selection-end-line="635" selection-end-column="0" />
+        <state relative-caret-position="76">
+          <caret line="766" column="1" selection-start-line="766" selection-start-column="1" selection-end-line="766" selection-end-column="1" />
           <folding>
             <element signature="e#1012#1147#0" expanded="false" />
             <element signature="e#1159#1223#0" expanded="false" />
@@ -1256,74 +1089,59 @@
             <element signature="e#4153#4204#0" expanded="false" />
             <element signature="e#4236#4271#0" expanded="false" />
             <element signature="e#4311#4482#0" expanded="false" />
-            <element signature="e#4519#4563#0" expanded="false" />
-            <element signature="e#4605#4810#0" expanded="false" />
-            <element signature="e#4821#4869#0" expanded="false" />
-            <element signature="e#4882#5054#0" expanded="false" />
-            <element signature="e#5067#5261#0" expanded="false" />
-            <element signature="e#5275#5351#0" expanded="false" />
-            <element signature="e#5365#5390#0" expanded="false" />
-            <element signature="e#5405#5446#0" expanded="false" />
-            <element signature="e#5459#5574#0" expanded="false" />
-            <element signature="e#5598#5659#0" expanded="false" />
-            <element signature="e#5669#5703#0" expanded="false" />
-            <element signature="e#5734#5757#0" expanded="false" />
-            <element signature="e#5766#5813#0" expanded="false" />
-            <element signature="e#5844#5939#0" expanded="false" />
-            <element signature="e#5948#5972#0" expanded="false" />
-            <element signature="e#5981#6031#0" expanded="false" />
-            <element signature="e#6040#6070#0" expanded="false" />
-            <element signature="e#6211#6241#0" expanded="false" />
-            <element signature="e#6402#6506#0" expanded="false" />
-            <element signature="e#6817#6851#0" expanded="false" />
-            <element signature="e#6867#7059#0" expanded="false" />
-            <element signature="e#7080#7173#0" expanded="false" />
-            <element signature="e#7188#7254#0" expanded="false" />
-            <element signature="e#7269#7328#0" expanded="false" />
-            <element signature="e#7358#7392#0" expanded="false" />
-            <element signature="e#7407#7466#0" expanded="false" />
-            <element signature="e#7475#7495#0" expanded="false" />
-            <element signature="e#7511#7553#0" expanded="false" />
-            <element signature="e#7569#7634#0" expanded="false" />
+            <element signature="e#4525#4730#0" expanded="false" />
+            <element signature="e#4741#4789#0" expanded="false" />
+            <element signature="e#4802#4974#0" expanded="false" />
+            <element signature="e#4987#5185#0" expanded="false" />
+            <element signature="e#5199#5275#0" expanded="false" />
+            <element signature="e#5289#5314#0" expanded="false" />
+            <element signature="e#5343#5384#0" expanded="false" />
+            <element signature="e#5397#5512#0" expanded="false" />
+            <element signature="e#5536#5597#0" expanded="false" />
+            <element signature="e#5704#5751#0" expanded="false" />
+            <element signature="e#5782#5877#0" expanded="false" />
+            <element signature="e#5919#5969#0" expanded="false" />
+            <element signature="e#5978#6008#0" expanded="false" />
+            <element signature="e#6340#6444#0" expanded="false" />
+            <element signature="e#6755#6789#0" expanded="false" />
+            <element signature="e#6805#6997#0" expanded="false" />
+            <element signature="e#7018#7111#0" expanded="false" />
+            <element signature="e#7126#7192#0" expanded="false" />
+            <element signature="e#7207#7266#0" expanded="false" />
+            <element signature="e#7296#7330#0" expanded="false" />
+            <element signature="e#7345#7404#0" expanded="false" />
+            <element signature="e#7413#7433#0" expanded="false" />
+            <element signature="e#7449#7491#0" expanded="false" />
+            <element signature="e#7507#7572#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/templates/personal/personalpage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="248" column="0" selection-start-line="248" selection-start-column="0" selection-end-line="248" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="2" column="68" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/templates/register/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding>
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#1;n#div#2;n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UI/templates/layout/_layout.html">
+    <entry file="file://$PROJECT_DIR$/UI/static/css/register/register.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

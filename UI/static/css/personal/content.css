@@ -276,10 +276,6 @@ td{
     overflow: hidden;
 }
 
-.PCD_tab .tb_tab .tab_link .t_link {
-    padding: 0 7px;
-    font-size: 14px;
-}
 
 
 .PCD_tab .tb_tab .tab_link .ani_border {
@@ -317,7 +313,7 @@ td{
     word-spacing: normal;
     vertical-align: top;
     font-size: 12px;
-    background: peru;
+    /*background: peru;*/
 }
 
 .WB_cardwrap{
@@ -330,7 +326,7 @@ td{
     overflow: hidden;
 }
 
-.WB_innerwrap{
+.PCD_counter .WB_innerwrap {
     width: 100%;
     padding: 12px 0;
 }
@@ -614,6 +610,7 @@ li{
     margin: 0;
     padding: 0;
     display: list-item;
+    text-align: -webkit-match-parent;
 }
 
 .WB_tab_a .tab li.curr {
@@ -634,19 +631,181 @@ li{
     font-size: 14px;
 }
 
+.WB_feed .WB_cardwrap {
+    margin-bottom: 10px;
+    background: #fff;
+}
+.WB_feed_v3 .WB_feed_detail {
+    padding: 20px 20px 4px;
+}
+
+.WB_feed_vipcover .WB_feed_detail {
+    /*position: relative;*/
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 600px;
+}
+
+.WB_face {
+    width: 50px;
+}
+
+.W_face_radius {
+    border-radius: 50%;
+}
+
+.WB_face .face img {
+    width: 50px;
+    height: 50px;
+}
+
+img {
+    border: 0;
+}
+
+.WB_detail {
+    margin-left: 60px;}
+
+.WB_feed_v3 .WB_info {
+    margin-bottom: 7px;
+}
+.WB_info {
+    margin: 0 0 3px;
+    padding: 5px 0 0;
+}
+
+.W_fb {
+    font-weight: 700;
+}
+
+.WB_feed_v3 .WB_from {
+    margin-bottom: 2px;
+}
+
+a:-webkit-any-link {
+    cursor: auto;
+}
+
+.WB_feed_v3 .WB_text {
+    margin-bottom: 2px;
+    padding-bottom: 0;
+}
+
+.WB_text {
+    _width: 100%;
+    padding: 1px 0 3px;
+    overflow: hidden;
+    line-height: 23px;
+    word-wrap: break-word;
+}
+.WB_feed_v3 .WB_text img {
+    vertical-align: -6px;
+}
+
+.WB_feed_v3 .WB_media_wrap {
+    margin-top: 5px;
+    margin-bottom: 6px;
+}
+.WB_media_wrap {
+    margin: 2px 0 8px -10px;
+}
+
+.WB_media_wrap .media_box {
+    float: left;
+    margin: 0 0 0 10px;
+}
+
+.WB_feed_v3 .WB_media_a_mn {
+    width: 502px;
+    margin: -2px 0 0 -2px;
+}
+.WB_feed_v3 .WB_media_a_mn li {
+    width: 165px;
+    height: 165px;
+    margin: 2px 0 0 2px;
+}
+
+.WB_media_a_mn li{
+    float: left;
+    overflow: hidden;
+}
+
+.bigcursor{
+    cursor: url(http://img.t.sinajs.cn/t6/style/images/common/big.cur), auto;
+}
+
+.WB_feed_v3 .WB_media_a_mn li img {
+    width: 100%;
+    height: 100%;
+}
+.WB_media_a_mn li img {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.WB_feed_handle .WB_handle {
+    overflow: hidden;
+}
+
+.WB_feed_handle .WB_row_line {
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+.WB_row_line {
+    margin: 0 0 0 -1px;
+    zoom: 1;
+}
+
+.WB_row_r4 li {
+    width: 25%;
+}
+
+.WB_row_line li {
+    float: left;
+    height: 38px;
+}
+
+.WB_row_line a {
+    display: block;
+    margin: 0 0 0 1px;
+    padding: 1px 0;
+    text-align: center;
+}
+
+.WB_row_line .pos {
+    display: block;
+    margin-left: -1px;
+}
+
+.WB_row_line a {
+    text-align: center;
+}
+
+.WB_row_line .line {
+    display: block;
+    height: 22px;
+    margin: 7px 0;
+    border-left-width: 1px;
+    border-left-style: solid;
+    line-height: 22px;
+}
+
+.WB_feed_v3 .WB_row_line .line span .W_ficon {
+    font-size: 15px;
+    vertical-align: top;
+}
 
 
+.WB_feed_v3 .WB_row_line .line span em{
+    margin-left: 2px;
+    margin-right: 3px;
+}
 
-
-
-
-
-
-
-
-
-
-
+em{
+    font-style: normal;
+    font-weight: normal;
+}
 
 
 
