@@ -2,13 +2,161 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c4e6846-533c-4e97-8b19-e4b3dedc1ab6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/css/personal/content.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/User_Pic/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/User_Pic/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/User_Pic/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2013.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2014.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2016.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2017.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2018.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5001.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5002.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5003.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5004.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5005.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5006.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5007.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5008.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5009.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5011.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5012.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5013.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5014.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5015.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2001_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2002_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2004_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2006_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2007_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2008_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2009_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2010_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2011_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2012_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2019_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2020_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2021_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2023_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2024_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2025_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2026_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1001_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1003_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1004_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1005_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1007_0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/footer_code.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/icon_input.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/icon_qq.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/pic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/search.ele.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/sprite_login.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/10.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/11.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/13.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/14.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/15.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/16.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/17.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/18.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/19.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/20.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/21.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/22.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/23.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/25.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/26.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/27.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/28.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/29.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/30.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/31.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/32.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/33.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/34.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/35.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/36.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/37.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/38.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/39.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/4.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/40.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/41.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/42.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/43.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/44.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/45.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/46.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/47.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/48.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/49.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/5.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/51.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/52.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/53.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/54.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/55.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/56.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/57.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/58.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/59.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/6.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/60.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/61.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/62.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/63.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/64.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/65.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/66.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/67.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/68.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/69.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/7.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/70.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/71.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/72.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/73.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/74.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/75.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/8.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/9.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Infrastructure/redisOperate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Repository/WeiboRespository.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Repository/migrations/0001_initial.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Repository/migrations/0002_auto_20160922_1108.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Service/responseService.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/Controllers/accountView.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/css/layer_login_register_v2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/js/index_jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/js/layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/js/jquery.qqFace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/templates/index/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/weibo.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Weibo-Django.iml" afterPath="$PROJECT_DIR$/.idea/Weibo-Django.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/weibo.iml" afterPath="$PROJECT_DIR$/.idea/weibo.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Repository/UserRespository.py" afterPath="$PROJECT_DIR$/Repository/UserRespository.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Repository/models.py" afterPath="$PROJECT_DIR$/Repository/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Service/UserService.py" afterPath="$PROJECT_DIR$/Service/UserService.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI/Controllers/textViews.py" afterPath="$PROJECT_DIR$/UI/Controllers/textViews.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI/static/css/common.css" afterPath="$PROJECT_DIR$/UI/static/css/common.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI/templates/layout/_layout.html" afterPath="$PROJECT_DIR$/UI/templates/layout/_layout.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weibo/settings.py" afterPath="$PROJECT_DIR$/weibo/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weibo/urls.py" afterPath="$PROJECT_DIR$/weibo/urls.py" />
     </list>
     <ignored path="weibo.iws" />
@@ -103,7 +251,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="personalpage.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="personalpage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UI/templates/personal/personalpage.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="368">
@@ -127,6 +275,19 @@
                 <element signature="n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_layout.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/UI/templates/layout/_layout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -159,9 +320,9 @@
         <option value="$PROJECT_DIR$/weibo/settings.py" />
         <option value="$PROJECT_DIR$/UI/Controllers/textViews.py" />
         <option value="$PROJECT_DIR$/UI/static/css/common.css" />
-        <option value="$PROJECT_DIR$/UI/templates/layout/_layout.html" />
         <option value="$PROJECT_DIR$/UI/static/css/personal/content.css" />
         <option value="$PROJECT_DIR$/UI/templates/personal/personalpage.html" />
+        <option value="$PROJECT_DIR$/UI/templates/layout/_layout.html" />
       </list>
     </option>
   </component>
@@ -173,9 +334,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="484" />
-    <option name="y" value="87" />
+    <option name="y" value="46" />
     <option name="width" value="1401" />
-    <option name="height" value="874" />
+    <option name="height" value="915" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -209,6 +370,84 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Weibo-Django" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="weibo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Weibo-Django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -513,7 +752,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="484" y="87" width="1401" height="874" extended-state="0" />
+    <frame x="484" y="46" width="1401" height="915" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20679246" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -523,7 +762,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880846" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32126698" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10085227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -977,14 +1216,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UI/templates/layout/_layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="8" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/UI/static/css/personal/frame.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1081,6 +1312,17 @@
             <element signature="n#div#2;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#3;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#4;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/templates/layout/_layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>

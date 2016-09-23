@@ -4,11 +4,13 @@
 	<meta charset="UTF-8">
 	<title>Document</title>
 	<link rel="stylesheet" href="/static/css/common.css"/>
+	<link rel="stylesheet" href="/static/css/layer_login_register_v2.css"/>
 	<link rel="stylesheet" href="/static/plugins/font_awesome/css/font-awesome.css"/>
-    {% block css %}
-    {% endblock %}
+
     <script src="/static/js/jquery-2.1.4.min.js"></script>
     <script src="/static/plugins/bootstrap/js/bootstrap.min.js"></script>
+
+    {% block css %}{% endblock %}
 </head>
 <body>
 <div class="header">
@@ -30,18 +32,106 @@
                 <ul class="gn_login_list">
                     <li><a href="#" class="S_txt1" >注册</a></li>
                     <li class="W_vline S_line1"></li>
-                    <a node-type="loginBtn" href="javascript:void(0)" class="S_txt1" target="_top">登录</a>
-
+                    <a node-type="loginBtn" href="javascript:void(0)" class="login_mt" target="_top">登录</a>
                 </ul>
             </div>
-		</div>
 
+<<<<<<< HEAD
 	</div>
 </div>
 <div class="WB_miniblog" >
    {% block content %}
    {% endblock %}
 </div>
+=======
 
+		</div>
+	</div>
+</div>
+    <!--点击登录模态框-->
+<div class="Bv6_layer hide" id="accountDialog" style="top: 94px; left: 373.5px;" >
+    <div class="content" node-type="layoutContent">
+        <div node-type="title" class="W_layer_title" style="cursor: move;"></div>
+        <div class="W_layer_close">
+            <a node-type="close" href="javascript:void(0);" class="W_ficon ficon_close S_ficon">X</a></div>
+        <div class="layer_login_register_v2 clearfix" node-type="inner">
+            <div class="tab_bar">
+                <a href="javascript:void(0);"  node-type="login_tab"  class="cur">帐号登录</a>
+                <a href="javascript:void(0);" node-type="qrcode_tab">安全登录</a>
+            </div>
+            <div>
+                <!--扫描登录-->
+                <div node_type="qrcode_tab" class="hide" >
+                    <div class="qrcode_con qrcode_con_hover">
+                        <img node-type="qrcode_src" style="width:180px;height:180px;">
+                        <div class="note S_txt1">请打开微博客户端“扫一扫”</div>
+                        <div class="bg" node-type="qr_help" class="hide";>
+                        </div>
+                    </div>
+                    <div class="opacity_bg" node-type="qrcode_bg" class="hide"></div>
+                    <div node-type="qrcode_succ" class="result res_succ" class="hide">
+                        <span class="W_icon icon_succB"></span>
+                    </div>
+                </div>
+                <!--帐号登录-->
+                <div class="B_login form_login_register" node_type="login_tab" >
+                <div class="item username input_wrap" >
+                    <input autocomplete="off" maxlength="128" tabindex="3" id="username" name="username" type="text" class="W_input" action-type="text_copy" placeholder="邮箱/会员帐号/手机号" value=""></div>
+                <div class="item password input_wrap" >
+                    <input maxlength="24" tabindex="4" id="password" name="password" type="password" class="W_input" action-type="text_copy" placeholder="请输入密码" >
+                </div>
+                <div class="item auto_login"><input type="checkbox" tabindex="5" id="login_form_savestate" checked="checked" node-type="savestate">
+                    <label for="login_form_savestate" class="S_txt2">下次自动登录</label>
+                    <span class="forget_psw">
+                        <a suda-data="key=tblog_weibologin3&amp;value=click_forgetpwd" action-type="btn_password_recover" target="_blank" node-type="btn_password_recover" href="https://login.sina.com.cn/getpass.html?entry=weibo" class="S_txt2">忘记密码</a>
+                    </span>
+                </div>
+                <div class="item_btn">
+                    <a class="W_btn_a btn_34px"  suda-data="key=tblog_weibologin3&amp;value=click_sign" node-type="submitBtn" action-type="btn_submit" href="javascript:void(0)">
+                        <em>登录</em>
+                    </a>
+                </div>
+                <div class="item_btn login_qq" node-type="qq_box"><a target="_blank" class="W_btn_b btn_34px" href="https://passport.weibo.com/othersitebind/authorize?entry=miniblog&amp;site=qq">
+                    <i class="icon_qq"></i>
+                    <em>使用QQ直接登录</em>
+                </a>
+                </div>
+                <div class="text_info W_tc"><a href="http://weibo.com/signup/signup.php" target="_blank" class="S_txt1">立即注册</a>
+                    <a href="javascript:void(0);" action-type="switch" action-data="tabname=message" class="S_txt1">短信登录</a>
+                </div>
+            </div>
+            </div>
+        </div>
+        </div>
+    </div>
+</div>
+
+{% block content %}{% endblock %}
+
+
+<div class="Bv6_layer Bv6_layer_pop hide" id="layer_14745295898261" style="left: 229px; top: 61px;">
+	<div class="content layer_mini_info">
+		<p class="main_txt">
+			<span node-type="icon"><span class="W_icon icon_rederrorS"></span></span>
+			<span node-type="text">请输入登录名 <a node-type="close" href="javascript:void(0);" class="W_ficon ficon_close S_ficon">X</a></span>
+		</p>
+		<div node-type="otherText"></div>
+
+
+		<div class="W_layer_arrow">
+			<span node-type="arrow" class="W_arrow_bor W_arrow_bor_b" style="left: 65px; right: auto;"><i class="S_line3"></i><em class="S_bg2_br"></em></span>
+		<div>
+	</div>
+</div></div></div>
+<script src="/static/js/jquery-2.1.4.min.js"></script>
+<script src="/static/plugins/bootstrap/js/bootstrap.min.js"></script>
+<script src="/static/js/layout.js"></script>
+{% block js %}{% endblock %}
+<script>
+    <!--跨站请求伪造-->
+    $.ajaxSetup({
+    data: {csrfmiddlewaretoken: '{{ csrf_token }}' },
+});
+</script>
 </body>
 </html>

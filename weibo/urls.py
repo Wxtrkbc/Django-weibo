@@ -16,8 +16,16 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from UI.Controllers import textViews
+from UI.Controllers import accountView
+
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^test/', textViews.test),
+<<<<<<< HEAD
     url(r'^personalpage/', textViews.personal),
+=======
+    url(r'^login/', accountView.login),
+    url(r'^userProfile/', accountView.userProfile),
+
+>>>>>>> 123f7cceb5d034500f875b0e5b6510259e4b4b91
 ]
