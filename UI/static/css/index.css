@@ -1,10 +1,17 @@
-.qqFace {
+.send_weibo .func .limits  .search_img{
+    display: inline-block;
+    overflow: hidden;
+    width: 18px;
+    height: 16px;
+    background: url("/static/images/search.ele.png") no-repeat;
+}
+
+.qqFace{
     margin-top: 4px;
     background: #fff;
     padding: 2px;
     border: 1px #dfe6f6 solid;
 }
-
 
 .unlogin_icon {
     font-family: "unlogininhome" !important;

@@ -11,4 +11,13 @@ $(function(){
 		var str = $("#saytext").val();
 		$("#show").html(replace_em(str));
 	});
+	
+	
+	$("#UploadImg").click(function () {
+		$("#index_img").removeClass("hide");
+	})
+	
+	$(".W_layer_close").click(function () {
+		$("#index_img").addClass("hide");
+	})
 });
