@@ -11,7 +11,7 @@ $(function () {
     })
 
     //点击登录弹出模态对话框
-    $('.S_txt1').click(function () {
+    $('.login_mt').click(function () {
         $("#accountDialog").removeClass('hide');
     })
     
@@ -30,12 +30,17 @@ $(function () {
         $.ajax({
             url: '/login/',
             type:'POST',
+            dataType: 'json',
             data: {username:user ,
                    password: pwd
                     },
 
             success:function (data) {
-                console.log(data)
+                if(data.status){
+                    $("#accountDialog").addClass('hide');
+                }else{
+                    alert(1)
+                }
             }
         })
     })

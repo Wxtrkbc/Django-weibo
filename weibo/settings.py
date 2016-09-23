@@ -75,6 +75,7 @@ WSGI_APPLICATION = 'weibo.wsgi.application'
 # https://docs.djangoproject.com/en/1.10/ref/settings/#databases
 
 
+<<<<<<< HEAD
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
@@ -85,6 +86,18 @@ DATABASES = {
         'PORT': '',
     }
 }
+=======
+# DATABASES = {
+#     'default': {
+#     'ENGINE': 'django.db.backends.mysql',
+#     'NAME':'weibo',
+#     'USER': 'root',
+#     'PASSWORD': '',
+#     'HOST': '115.28.147.110',
+#     'PORT': '',
+#     }
+# }
+>>>>>>> 430f195f7c8db5a116d3955bc16b4dde03034ac8
 
 # Password validation
 # https://docs.djangoproject.com/en/1.10/ref/settings/#auth-password-validators

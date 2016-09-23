@@ -1,13 +1,21 @@
 {% extends "layout/_layout.html" %}
 {% block css %}
     <link href="/static/css/index.css" rel="stylesheet"/>
+<<<<<<< HEAD
+=======
+    <link href="/static/css/index_img.css" rel="stylesheet"/>
+>>>>>>> 430f195f7c8db5a116d3955bc16b4dde03034ac8
     <link href="/static/plugins/emoji/css/reset.css" rel="stylesheet"/>
 {% endblock %}
 
 {% block content %}
     <div class="B_unlog">
         <div class="WB_miniblog">
+<<<<<<< HEAD
             <div class="WB_main clearfix" id="plc_frame">
+=======
+        <div class="WB_main clearfix" id="plc_frame">
+>>>>>>> 430f195f7c8db5a116d3955bc16b4dde03034ac8
                 <div class="WB_frame">
                     <!-- 左侧导航栏 -->
                     <div class="WB_main_l">
@@ -274,7 +282,11 @@
                                             </div>
                                             <div class="kind">
                                                 <a class="S_txt1 emotion" href="javascript:void(0);" ><i class="fa fa-smile-o ficon_face" aria-hidden="true"></i>表情</a>
+<<<<<<< HEAD
                                                 <a class="S_txt1" href="javascript:void(0);" ><i class="fa fa-picture-o ficon_image" aria-hidden="true"></i>图片</a>
+=======
+                                                <a class="S_txt1" id = "UploadImg" href="javascript:void(0);" ><i class="fa fa-picture-o ficon_image" aria-hidden="true"></i>图片</a>
+>>>>>>> 430f195f7c8db5a116d3955bc16b4dde03034ac8
                                                 <a class="S_txt1" href="javascript:void(0);" ><i class="fa fa-video-camera ficon_video" aria-hidden="true"></i>视频</a>
                                                 <a class="S_txt1" href="javascript:void(0);" ><i class="fa fa-crosshairs ficon_image" aria-hidden="true"></i>话题</a>
                                                 <a class="S_txt1" href="javascript:void(0);" ><i class="fa fa-bolt ficon_artical" aria-hidden="true"></i>头条文章</a>
@@ -350,8 +362,16 @@
                                         </div>
                                     </div>
                                 </div>
+<<<<<<< HEAD
                             </div>
 
+=======
+
+                                <div class="layer_send_pic" node-type="inner">
+
+                                </div>
+                            </div>
+>>>>>>> 430f195f7c8db5a116d3955bc16b4dde03034ac8
                             <div class="WB_main_r" fixed-box="true">
                                 <div id="pl_unlogin_home_login">
                                     <div style="visibility: hidden;"></div>
@@ -413,6 +433,7 @@
 
 
                                                     <div class="W_login_form" node-type="normal_form">
+<<<<<<< HEAD
                                                         <!--<div class="info_list pre_info clearfix" node-type="prename_box" style="display:none"></div>-->
                                                         <div class="info_list username" node-type="username_box">
                                                             <div class="input_wrap">
@@ -421,6 +442,13 @@
                                                                        action-data="text=邮箱/会员帐号/手机号"
                                                                        action-type="text_copy" name="username"
                                                                        node-type="username" tabindex="1">
+=======
+                                                        <div class="info_list username" node-type="username_box">
+                                                            <div class="input_wrap">
+                                                                <input id="loginname" type="text" class="W_input "
+                                                                       maxlength="128" name="username">
+
+>>>>>>> 430f195f7c8db5a116d3955bc16b4dde03034ac8
                                                             </div>
                                                         </div>
                                                         <div class="info_list password" node-type="password_box">
@@ -429,7 +457,11 @@
                                                                        autocomplete="off" value=""
                                                                        action-type="text_copy" name="password"
                                                                        node-type="password" tabindex="2">
+<<<<<<< HEAD
                                                                 <span class="enter_psw">请输入密码</span>
+=======
+                                                                <span class="enter_psw"></span>
+>>>>>>> 430f195f7c8db5a116d3955bc16b4dde03034ac8
                                                             </div>
                                                         </div>
                                                         <!-- 输入验证码 -->
@@ -1097,7 +1129,11 @@
                                 </div>
                             </div>
                         </div>
+<<<<<<< HEAD
                         <!-- 右侧内容 -->
+=======
+
+>>>>>>> 430f195f7c8db5a116d3955bc16b4dde03034ac8
 
                         <!-- 返回顶部 -->
                         <a class="W_gotop S_ficon_bg" id="base_scrollToTop" href="javascript:void(0);"
@@ -1107,8 +1143,45 @@
                     </div>
                 </div>
             </div>
+<<<<<<< HEAD
 
 
+=======
+    </div>
+    </div>
+    <div class="W_layer W_layer_pop hide " id="index_img" style="left: 338px; top: 230px;">
+    <div class="content">
+        <div class="W_layer_title">
+            <div class="W_layer_close"><a href="javascript:void(0);" node-type="close"
+                                          class="W_ficon ficon_close S_ficon">X</a></div>
+        </div>
+        <div class="layer_send_pic" node-type="inner">
+            <div class="layer_send_btn clearfix">
+                <ul class="clearfix">
+                    <li class="S_line2" suda-data="key=tblog_new_image_upload&amp;value=fast_upload"><a
+                            href="javascript:void(0);" class="W_btn_l" node-type="mUpload"
+                            style="position: relative;"><span class="btn_45px"><i class="fa fa-file-image-o ficon_add_pic" aria-hidden="true"></i>单图/多图</span>
+                        <div style="position: absolute; left: 0px; top: 0px; display: block; overflow: hidden; opacity: 0; width: 194px; height: 45px; background-color: rgb(0, 0, 0);">
+                        </div>
+                    </a></li>
+                    <li class="S_line2"><a href="javascript:void(0);" class="W_btn_l" node-type="inputCover"
+                                           action-type="more"
+                                           suda-data="key=tblog_new_image_upload&amp;value=pin_upload"><span
+                            class="btn_45px"><em class="W_ficon ficon_puzzle S_ficon">Æ</em>拼图</span></a></li>
+                    <li class="S_line2"><a href="javascript:void(0);" class="W_btn_l" action-type="capture"
+                                           suda-data="key=tblog_new_image_upload&amp;value=screenshot_upload"><span
+                            class="btn_45px"><em class="W_ficon ficon_screenshot S_ficon">Ô</em>截屏</span></a></li>
+                    <li class="S_line2"><a href="javascript:void(0);" class="W_btn_l" action-type="uploadAblum"
+                                           suda-data="key=tblog_new_image_upload&amp;value=upload_albums"><span
+                            class="btn_45px"><em class="W_ficon ficon_upload_album S_ficon">Ë</em>传至相册</span></a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="W_layer_arrow"><span class="W_arrow_bor W_arrow_bor_t" node-type="arrow" style="left: 81px;"><i
+                class="S_line3"></i><em class="S_bg2_br"></em></span></div>
+    </div>
+</div>
+>>>>>>> 430f195f7c8db5a116d3955bc16b4dde03034ac8
 {% endblock %}
 
 

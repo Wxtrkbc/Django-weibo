@@ -9,6 +9,7 @@ from Repository import UserRespository
 
 from Repository import models
 
+<<<<<<< HEAD
 
 def login(request):
     if request.method == 'POST':
@@ -22,6 +23,18 @@ def login(request):
         #     return redirect('/index/')
         return HttpResponse(json.dumps(rep))
     return render(request, 'layout/_layout.html')
+=======
+def login(request):
+    if request.method == 'POST':
+        username = request.POST.get('username')
+        password = request.POST.get('password')
+        print(username, password)
+        account_user_service = UserService.UserService(UserRespository.UserRespository())
+        rep = account_user_service.login(request, username, password)
+        return HttpResponse(json.dumps(rep))
+    return render(request, 'layout/_layout.html')
+
+>>>>>>> 430f195f7c8db5a116d3955bc16b4dde03034ac8
 
 
 def userProfile(request):

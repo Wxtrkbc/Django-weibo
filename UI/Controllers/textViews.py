@@ -4,8 +4,16 @@ from django.views.decorators.csrf import csrf_protect
 from django.shortcuts import render,HttpResponse
 
 def test(request):
+
     return render(request, 'layout/_layout.html')
 
+def personal(request):
+    print(123)
+    return render(request,'personal/personalpage.html')
+
+
+def register(request):
+    return render(request, 'register/register.html')
 
 
 def login(request):
@@ -13,3 +21,4 @@ def login(request):
     pwd = request.POST.get('password',None)
     print(username, pwd)
     return render(request, 'layout/_layout.html')
+
