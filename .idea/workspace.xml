@@ -2,142 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c4e6846-533c-4e97-8b19-e4b3dedc1ab6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2013.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2014.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2015.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2016.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2017.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_2018.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5001.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5002.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5003.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5004.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5005.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5006.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5007.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5008.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5009.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5011.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5012.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5013.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5014.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_558_3_5015.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2001_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2002_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2004_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2006_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2007_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2008_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2009_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2010_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2011_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2012_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2019_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2020_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2021_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2023_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2024_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2025_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_854_2026_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1001_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1003_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1004_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1005_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/1087030002_892_1007_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/footer_code.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/search.ele.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/images/sprite_login.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/12.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/13.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/14.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/15.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/17.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/18.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/19.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/20.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/21.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/22.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/23.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/25.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/26.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/27.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/28.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/29.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/30.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/31.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/33.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/34.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/35.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/36.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/37.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/38.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/39.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/40.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/41.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/42.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/43.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/44.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/45.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/46.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/47.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/48.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/49.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/50.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/51.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/52.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/53.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/54.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/55.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/56.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/57.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/58.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/59.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/60.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/61.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/62.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/63.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/64.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/65.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/66.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/67.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/68.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/69.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/70.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/71.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/72.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/73.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/74.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/75.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/arclist/9.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/css/index_img.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/css/personal/content.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/css/register/register.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/js/index_jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/css/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/static/plugins/emoji/js/jquery.qqFace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UI/templates/register/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI/Controllers/accountView.py" afterPath="$PROJECT_DIR$/UI/Controllers/accountView.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI/Controllers/textViews.py" afterPath="$PROJECT_DIR$/UI/Controllers/textViews.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI/static/css/common.css" afterPath="$PROJECT_DIR$/UI/static/css/common.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI/static/css/layer_login_register_v2.css" afterPath="$PROJECT_DIR$/UI/static/css/layer_login_register_v2.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI/static/js/layout.js" afterPath="$PROJECT_DIR$/UI/static/js/layout.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UI/templates/index/index.html" afterPath="$PROJECT_DIR$/UI/templates/index/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weibo/settings.py" afterPath="$PROJECT_DIR$/weibo/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/weibo/urls.py" afterPath="$PROJECT_DIR$/weibo/urls.py" />
     </list>
     <ignored path="weibo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -149,7 +17,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/weibo$forword__1_.coverage" NAME="forword (1) Coverage Results" MODIFIED="1474614330384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/weibo$test.coverage" NAME="test Coverage Results" MODIFIED="1474616108774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -171,8 +38,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weibo/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+            <state relative-caret-position="594">
+              <caret line="27" column="39" lean-forward="false" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
               <folding>
                 <element signature="e#639#671#0" expanded="true" />
               </folding>
@@ -183,8 +50,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Repository/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-165">
-              <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+            <state relative-caret-position="2457">
+              <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -193,22 +60,61 @@
       <file leaf-file-name="UserRespository.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Repository/UserRespository.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="567">
+              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="accountView.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="accountView.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UI/Controllers/accountView.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/weibo/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2079">
+              <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redisOperate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Infrastructure/redisOperate.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forword.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Infrastructure/forword.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
               <folding>
-                <marker date="1474622441089" expanded="true" signature="0:36" placeholder="..." />
-                <marker date="1474622441089" expanded="false" signature="38:268" placeholder="import ..." />
-                <marker date="1474622441089" expanded="true" signature="1749:1796" placeholder="..." />
+                <element signature="e#38#70#0" expanded="true" />
+                <element signature="e#2083#2429#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -218,7 +124,7 @@
         <entry file="file://$PROJECT_DIR$/Service/UserService.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="e#270#308#0" expanded="false" />
                 <element signature="e#368#1157#0" expanded="false" />
@@ -231,8 +137,8 @@
       <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="135">
+              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding>
                 <element signature="e#22#31#0" expanded="true" />
               </folding>
@@ -270,7 +176,6 @@
         <option value="$PROJECT_DIR$/UI/templates/layout/_layout.html" />
         <option value="$PROJECT_DIR$/UI/templates/index.html" />
         <option value="$PROJECT_DIR$/Infrastructure/queueHandle.py" />
-        <option value="$PROJECT_DIR$/weibo/settings.py" />
         <option value="$PROJECT_DIR$/forword.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Service/UserService.py" />
@@ -279,6 +184,7 @@
         <option value="$PROJECT_DIR$/UI/Controllers/weiboView.py" />
         <option value="$PROJECT_DIR$/Service/queueService.py" />
         <option value="$PROJECT_DIR$/UI/Controllers/accountView.py" />
+        <option value="$PROJECT_DIR$/weibo/settings.py" />
       </list>
     </option>
   </component>
@@ -289,20 +195,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="510" />
-    <option name="y" value="11" />
-    <option name="width" value="1217" />
-    <option name="height" value="751" />
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+    <option name="x" value="62" />
+    <option name="y" value="23" />
+    <option name="width" value="1749" />
+    <option name="height" value="1216" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -319,37 +215,69 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="weibo" />
+              <option name="myItemId" value="Django-weibo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="weibo" />
+              <option name="myItemId" value="Django-weibo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="weibo" />
+              <option name="myItemId" value="Django-weibo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="weibo" />
+              <option name="myItemId" value="Django-weibo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="weibo" />
+              <option name="myItemId" value="Django-weibo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="UI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django-weibo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django-weibo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Repository" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django-weibo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Django-weibo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Infrastructure" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -359,26 +287,25 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project-new" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Tab\PycharmProjects\weibo\UI\templates" />
-      <recent name="E:\Weibo-Django\UI\static\images" />
-      <recent name="E:\Weibo-Django\UI\static\css" />
-      <recent name="E:\Weibo-Django\UI\static" />
-      <recent name="E:\Weibo-Django\UI" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Tab\PycharmProjects\weibo\Infrastructure" />
       <recent name="C:\Users\Tab\PycharmProjects\weibo" />
       <recent name="E:\Weibo-Django\UI\static" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="C:\Users\Tab\PycharmProjects\weibo\UI\templates" />
+      <recent name="E:\Weibo-Django\UI\static\images" />
+      <recent name="E:\Weibo-Django\UI\static\css" />
+      <recent name="E:\Weibo-Django\UI\static" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Django server.Django-weibo">
     <configuration default="false" name="forword" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -566,7 +493,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
+      <command value="run" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -682,6 +609,29 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="Django-weibo" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Django-weibo" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
     <configuration default="false" name="weibo" type="Python.DjangoServer" factoryName="Django server">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -706,12 +656,13 @@
       <option name="customRunCommand" value="" />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Django server.weibo" />
-      <item index="1" class="java.lang.String" itemvalue="Python.forword" />
-      <item index="2" class="java.lang.String" itemvalue="Python.forword (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.forword (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test" />
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Django server.Django-weibo" />
+      <item index="1" class="java.lang.String" itemvalue="Django server.weibo" />
+      <item index="2" class="java.lang.String" itemvalue="Python.forword" />
+      <item index="3" class="java.lang.String" itemvalue="Python.forword (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.forword (2)" />
+      <item index="5" class="java.lang.String" itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list size="4">
@@ -748,28 +699,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="510" y="11" width="1217" height="751" extended-state="0" />
-    <editor active="false" />
+    <frame x="62" y="23" width="1749" height="1216" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2057044" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14352666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297491" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42301184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928944" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42301184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -787,17 +741,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/UI/Controllers/textViews.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/weibo/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1276">
-          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
+          <caret line="58" column="4" lean-forward="false" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -805,7 +752,7 @@
     <entry file="file://$PROJECT_DIR$/weibo/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="e#639#671#0" expanded="true" />
           </folding>
@@ -816,35 +763,35 @@
     <entry file="file://$PROJECT_DIR$/UI/Controllers/textViews.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Repository/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Repository/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Repository/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/weibo/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1276">
-          <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
+          <caret line="58" column="4" lean-forward="false" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
           <folding />
         </state>
       </provider>
@@ -852,7 +799,7 @@
     <entry file="file://$PROJECT_DIR$/weibo/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="e#639#671#0" expanded="true" />
           </folding>
@@ -863,49 +810,49 @@
     <entry file="file://$PROJECT_DIR$/UI/Controllers/textViews.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <caret line="6" column="28" lean-forward="false" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Repository/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Repository/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <caret line="6" column="43" lean-forward="false" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Repository/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Repository/UserRespository.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Service/UserService.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/weibo/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -913,7 +860,7 @@
     <entry file="file://$PROJECT_DIR$/weibo/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#639#671#0" expanded="true" />
           </folding>
@@ -923,14 +870,14 @@
     <entry file="file://$PROJECT_DIR$/weibo/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <caret line="1" column="7" lean-forward="false" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/static/js/jquery-2.1.4.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -940,21 +887,21 @@
     <entry file="file://$PROJECT_DIR$/Repository/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="1" column="29" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
+          <caret line="1" column="29" lean-forward="false" selection-start-line="1" selection-start-column="29" selection-end-line="1" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Repository/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/static/plugins/bootstrap/js/npm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -966,7 +913,7 @@
     <entry file="file://$PROJECT_DIR$/UI/static/css/common.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
-          <caret line="849" column="0" selection-start-line="188" selection-start-column="0" selection-end-line="849" selection-end-column="0" />
+          <caret line="849" column="0" lean-forward="false" selection-start-line="188" selection-start-column="0" selection-end-line="849" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -978,76 +925,39 @@
     <entry file="file://$PROJECT_DIR$/UI/static/css/layer_login_register_v2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="0" column="8029" selection-start-line="0" selection-start-column="8020" selection-end-line="0" selection-end-column="8029" />
+          <caret line="0" column="8029" lean-forward="false" selection-start-line="0" selection-start-column="8020" selection-end-line="0" selection-end-column="8029" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/static/js/layout.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
-          <caret line="28" column="39" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="862" column="8" selection-start-line="862" selection-start-column="8" selection-end-line="862" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python35/Lib/urllib/request.py" />
     <entry file="file://$PROJECT_DIR$/Infrastructure/queueHandle.py" />
     <entry file="file://$PROJECT_DIR$/Repository/WeiboRespository.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weibo/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-106">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/Controllers/weiboView.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="729">
-          <caret line="27" column="33" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
-          <folding>
-            <element signature="e#37#86#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Infrastructure/redisOperate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="29" />
-          <folding />
+          <caret line="27" column="33" lean-forward="false" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="135">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           <folding>
             <element signature="e#22#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Infrastructure/forword.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="34" column="68" selection-start-line="34" selection-start-column="68" selection-end-line="34" selection-end-column="68" />
-          <folding>
-            <element signature="e#38#70#0" expanded="true" />
-            <element signature="e#2083#2429#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1055,52 +965,36 @@
     <entry file="file://$PROJECT_DIR$/UI/Controllers/textViews.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-          <folding />
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/UI/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/UI/templates/index.html" />
     <entry file="file://$PROJECT_DIR$/UI/templates/layout/_layout.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
-          <caret line="111" column="7" selection-start-line="111" selection-start-column="7" selection-end-line="111" selection-end-column="7" />
-          <folding />
+          <caret line="111" column="7" lean-forward="false" selection-start-line="111" selection-start-column="7" selection-end-line="111" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/templates/personal/personalpage.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2646">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="n#p#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Service/queueService.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding>
-            <element signature="e#39#50#0" expanded="false" />
-            <element signature="e#1440#1545#0" expanded="false" />
-          </folding>
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/weibo/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        <state relative-caret-position="594">
+          <caret line="27" column="39" lean-forward="false" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
           <folding>
             <element signature="e#639#671#0" expanded="true" />
           </folding>
@@ -1110,17 +1004,14 @@
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
-          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
-          <folding>
-            <element signature="e#422#461#0" expanded="false" />
-          </folding>
+          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Service/UserService.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="e#270#308#0" expanded="false" />
             <element signature="e#368#1157#0" expanded="false" />
@@ -1131,28 +1022,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Repository/UserRespository.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="567">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Repository/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
-          <caret line="97" column="0" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+        <state relative-caret-position="2457">
+          <caret line="97" column="0" lean-forward="false" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UI/Controllers/accountView.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weibo/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2079">
+          <caret line="77" column="0" lean-forward="false" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infrastructure/redisOperate.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Infrastructure/forword.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
           <folding>
-            <marker date="1474622441089" expanded="true" signature="0:36" placeholder="..." />
-            <marker date="1474622441089" expanded="false" signature="38:268" placeholder="import ..." />
-            <marker date="1474622441089" expanded="true" signature="1749:1796" placeholder="..." />
+            <element signature="e#38#70#0" expanded="true" />
+            <element signature="e#2083#2429#0" expanded="false" />
           </folding>
         </state>
       </provider>
